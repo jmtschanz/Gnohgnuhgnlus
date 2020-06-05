@@ -58,7 +58,7 @@ TBODY{
 	COLOR: #F1F1F1; FONT-WEIGHT: bold;  FONT-SIZE: 12px; TEXT-Align:center; FONT-FAMILY: Tahoma, sans-serif }
 
 .center {
-	align:center
+	display: block
 	top:0
 }
 
